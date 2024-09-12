@@ -1,0 +1,2 @@
+project3code为源码
+qt3为带dll的exe
